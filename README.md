@@ -8,6 +8,7 @@ A lightweight personal terminal utility built with Python, Typer, Rich, SymPy, a
 
 - **Symbolic Math Solver:** Solve algebraic equations and simplify expressions directly in the console (`cli math`).
 - **Hardware Telemetry:** Quick readouts for Apple Silicon CPU usage and RAM pressure (`cli stats`).
+- **Focus Study Timer:** Terminal countdown timer with native macOS alert notifications (`python main.py timer --minutes 1`).
 
 ---
 
